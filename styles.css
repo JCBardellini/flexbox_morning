@@ -10,6 +10,7 @@ body {
     align-items: center;
     padding: 20px;
     background-color: aquamarine;
+    box-shadow: 2px 4px 5px  gray;
 }
 .sidebar {
     display: flex;
@@ -21,6 +22,7 @@ body {
     margin-top: 10px;
     padding: 10px 0;
     height: 300px;
+    box-shadow: 2px 5px 4px gray;
 }
 #donate-btn {
     display: flex; 
@@ -39,6 +41,7 @@ footer {
     padding: 20px;
     background-color: aquamarine;
     margin-top: 10px;
+    box-shadow: 2px  4px 5px #9e7b6c;
 } 
 .img {
     display: inline-block;
